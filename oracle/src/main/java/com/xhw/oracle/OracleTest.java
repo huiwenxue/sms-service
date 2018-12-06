@@ -12,6 +12,7 @@ import java.sql.SQLException;
 public class OracleTest {
     @Test
     public void test() {
+		Integer age = 10;
         String driver = "oracle.jdbc.OracleDriver";
         String url = "jdbc:oracle:thin:@192.168.66.166:1521:orcl";
         String username = "xhw";
