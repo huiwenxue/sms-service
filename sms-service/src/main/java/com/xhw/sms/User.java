@@ -5,6 +5,7 @@ import java.io.Serializable;
 public class User implements Serializable{
     private String username;
     private Integer age;
+    int i = 10£»
 
     public Integer getAge() {
         return age;
