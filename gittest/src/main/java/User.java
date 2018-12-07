@@ -3,5 +3,5 @@ public class User {
     private String age;
     private String addr;
     private String pass;
-	private String email;
+    private String email;
 }
